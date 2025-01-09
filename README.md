@@ -1,1 +1,1 @@
-# Spriha
+# Amazon Clone Work
